@@ -1,0 +1,6 @@
+[irtnog]
+name=IRTNOG Package Repository for RHEL/CentOS $releasever
+baseurl=https://yum.irtnog.org/$releasever/$basearch/latest
+gpgkey=https://yum.irtnog.org/RPM-GPG-KEY-xenophon@irtnog.org
+gpgcheck=1
+enabled=1
